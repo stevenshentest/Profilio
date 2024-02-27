@@ -1,0 +1,70 @@
+const data=[
+{
+id:1,
+image:IMG1, 
+title:'Eclipse - Figma dashboard UI kit for data design web apps',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/23441440-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+},
+{
+id:2,
+image:IMG2, 
+title:'Make Impactful Data Visualizations in Figma with Hyper Charts UI',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/23224283-Make-Impactful-Data-Visualizations-in-Figma-with-Hyper-Charts-UI'
+},
+{
+id:3,
+image:IMG3, 
+title:'Figma dashboard UI kit for data design',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/22889410-Figma-dashboard-UI-kit-for-data-design'
+},
+{
+id:4,
+image:IMG4, 
+title:'Eclipse - Figma dashboard UI kit for data design web apps',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/22397835-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+},
+{
+id:5,
+image:IMG5, 
+title:'Global data visualization templates',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/22397589-Global-data-visualization-templates'
+},
+{
+id:6,
+image:IMG6, 
+title:'High quality graphs served as figma library',
+github:'https://github.com',
+demo:'https://dribbble.com/shots/23126240-High-quality-graphs-served-as-figma-library'
+},
+
+];
+
+//Testimonial Avatar data
+
+const data=[
+{
+avatar:Avatar1,
+name:'Tina Snow',
+review:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur veritatis mollitia sit doloribus aspernatur enim itaque eius distinctio consectetur. Modi, ipsa. Eveniet repudiandae vel provident alias vero at similique vitae?'
+},
+{
+avatar:Avatar2,
+name:'Sharra Wale',
+review:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur veritatis mollitia sit doloribus aspernatur enim itaque eius distinctio consectetur. Modi, ipsa. Eveniet repudiandae vel provident alias vero at similique vitae?'
+},
+{
+avatar:Avatar3,
+name:'Kenny Swan',
+review:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur veritatis mollitia sit doloribus aspernatur enim itaque eius distinctio consectetur. Modi, ipsa. Eveniet repudiandae vel provident alias vero at similique vitae?'
+},
+{
+avatar:Avatar4,
+name:'McBrown Chill',
+review:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur veritatis mollitia sit doloribus aspernatur enim itaque eius distinctio consectetur. Modi, ipsa. Eveniet repudiandae vel provident alias vero at similique vitae?'
+}
+];
